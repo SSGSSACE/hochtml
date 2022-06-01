@@ -53,6 +53,7 @@ header {
     position: relative;
     z-index: 10;
     color: #fff;
+    background: #000;
   }
   
   .animate-pop-in {
